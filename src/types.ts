@@ -12,7 +12,7 @@ export const SleepSchema = z.object({
     sleep_efficiency: Option(z.number()),
     hypnogram_samples: z.array(z.object({
       timestamp: z.string(),
-      level: z.string(),
+      level: z.number(),
     })),
     awake: z.object({
       duration_short_interruption_seconds: Option(z.number()),
@@ -74,7 +74,7 @@ export const SleepSchema = z.object({
       })),
       hrv_samples_rmssd: z.array(z.object({
         timestamp: z.string(),
-        hrv_sdnn: z.number(),
+        hrv_rmssd: z.number(),
       })),
     }),
   }),
@@ -83,7 +83,7 @@ export const SleepSchema = z.object({
   }),
   readiness_data: z.object({
     readiness: Option(z.number()),
-    recovery_level: Option(z.string()), // Replace with appropriate RecoveryLevel structure if defined
+    recovery_level: Option(z.number()),
   }),
   respiration_data: z.object({
     breaths_data: z.object({

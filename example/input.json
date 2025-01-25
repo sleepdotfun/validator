@@ -1,0 +1,1381 @@
+{
+    "heart_rate_data": {
+        "summary": {
+            "min_hr_bpm": 51.0,
+            "user_max_hr_bpm": null,
+            "resting_hr_bpm": 51,
+            "avg_hrv_sdnn": null,
+            "avg_hr_bpm": 55.49,
+            "avg_hrv_rmssd": 77,
+            "max_hr_bpm": 70.0
+        },
+        "detailed": {
+            "hr_samples": [
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 61.0,
+                    "timestamp": "2025-01-12T03:52:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 60.0,
+                    "timestamp": "2025-01-12T03:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 60.0,
+                    "timestamp": "2025-01-12T04:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 59.0,
+                    "timestamp": "2025-01-12T04:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 58.0,
+                    "timestamp": "2025-01-12T04:12:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 57.0,
+                    "timestamp": "2025-01-12T04:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T04:22:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T04:27:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T04:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 57.0,
+                    "timestamp": "2025-01-12T04:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T04:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T04:52:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T04:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T05:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T05:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T05:12:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T05:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T05:22:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T05:27:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T05:32:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T05:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T05:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 65.0,
+                    "timestamp": "2025-01-12T05:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 60.0,
+                    "timestamp": "2025-01-12T05:52:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 60.0,
+                    "timestamp": "2025-01-12T05:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 65.0,
+                    "timestamp": "2025-01-12T06:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T06:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T06:12:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T06:32:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T06:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T06:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T06:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T06:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T07:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T07:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T07:12:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T07:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T07:22:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T07:27:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T07:32:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T07:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T07:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T07:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T08:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T08:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T08:12:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T08:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T08:22:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T08:27:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T08:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T08:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 59.0,
+                    "timestamp": "2025-01-12T08:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 60.0,
+                    "timestamp": "2025-01-12T08:52:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 59.0,
+                    "timestamp": "2025-01-12T08:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T09:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 68.0,
+                    "timestamp": "2025-01-12T09:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 70.0,
+                    "timestamp": "2025-01-12T09:12:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 67.0,
+                    "timestamp": "2025-01-12T09:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 51.0,
+                    "timestamp": "2025-01-12T09:32:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T09:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 51.0,
+                    "timestamp": "2025-01-12T09:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 51.0,
+                    "timestamp": "2025-01-12T09:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T09:52:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T09:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T10:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T10:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T10:22:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 59.0,
+                    "timestamp": "2025-01-12T10:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 62.0,
+                    "timestamp": "2025-01-12T10:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 57.0,
+                    "timestamp": "2025-01-12T10:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T10:52:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T10:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T11:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 51.0,
+                    "timestamp": "2025-01-12T11:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T11:27:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T11:37:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T11:42:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T11:47:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 52.0,
+                    "timestamp": "2025-01-12T11:52:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 53.0,
+                    "timestamp": "2025-01-12T11:57:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T12:02:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 55.0,
+                    "timestamp": "2025-01-12T12:07:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 54.0,
+                    "timestamp": "2025-01-12T12:12:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T12:17:36.000000+08:00"
+                },
+                {
+                    "timer_duration_seconds": null,
+                    "context": 0,
+                    "bpm": 56.0,
+                    "timestamp": "2025-01-12T12:22:36.000000+08:00"
+                }
+            ],
+            "hrv_samples_rmssd": [
+                {
+                    "timestamp": "2025-01-12T03:52:36.000000+08:00",
+                    "hrv_rmssd": 54.0
+                },
+                {
+                    "timestamp": "2025-01-12T03:57:36.000000+08:00",
+                    "hrv_rmssd": 70.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:02:36.000000+08:00",
+                    "hrv_rmssd": 72.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:07:36.000000+08:00",
+                    "hrv_rmssd": 70.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:12:36.000000+08:00",
+                    "hrv_rmssd": 76.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:17:36.000000+08:00",
+                    "hrv_rmssd": 85.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:22:36.000000+08:00",
+                    "hrv_rmssd": 91.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:27:36.000000+08:00",
+                    "hrv_rmssd": 99.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:37:36.000000+08:00",
+                    "hrv_rmssd": 101.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:42:36.000000+08:00",
+                    "hrv_rmssd": 101.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:47:36.000000+08:00",
+                    "hrv_rmssd": 86.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:52:36.000000+08:00",
+                    "hrv_rmssd": 94.0
+                },
+                {
+                    "timestamp": "2025-01-12T04:57:36.000000+08:00",
+                    "hrv_rmssd": 87.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:02:36.000000+08:00",
+                    "hrv_rmssd": 86.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:07:36.000000+08:00",
+                    "hrv_rmssd": 67.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:12:36.000000+08:00",
+                    "hrv_rmssd": 91.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:17:36.000000+08:00",
+                    "hrv_rmssd": 81.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:22:36.000000+08:00",
+                    "hrv_rmssd": 83.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:27:36.000000+08:00",
+                    "hrv_rmssd": 92.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:32:36.000000+08:00",
+                    "hrv_rmssd": 97.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:37:36.000000+08:00",
+                    "hrv_rmssd": 94.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:42:36.000000+08:00",
+                    "hrv_rmssd": 93.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:47:36.000000+08:00",
+                    "hrv_rmssd": 55.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:52:36.000000+08:00",
+                    "hrv_rmssd": 65.0
+                },
+                {
+                    "timestamp": "2025-01-12T05:57:36.000000+08:00",
+                    "hrv_rmssd": 67.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:02:36.000000+08:00",
+                    "hrv_rmssd": 38.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:07:36.000000+08:00",
+                    "hrv_rmssd": 72.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:12:36.000000+08:00",
+                    "hrv_rmssd": 112.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:32:36.000000+08:00",
+                    "hrv_rmssd": 84.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:37:36.000000+08:00",
+                    "hrv_rmssd": 96.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:42:36.000000+08:00",
+                    "hrv_rmssd": 92.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:47:36.000000+08:00",
+                    "hrv_rmssd": 78.0
+                },
+                {
+                    "timestamp": "2025-01-12T06:57:36.000000+08:00",
+                    "hrv_rmssd": 75.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:02:36.000000+08:00",
+                    "hrv_rmssd": 75.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:07:36.000000+08:00",
+                    "hrv_rmssd": 66.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:12:36.000000+08:00",
+                    "hrv_rmssd": 70.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:17:36.000000+08:00",
+                    "hrv_rmssd": 81.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:22:36.000000+08:00",
+                    "hrv_rmssd": 65.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:27:36.000000+08:00",
+                    "hrv_rmssd": 68.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:32:36.000000+08:00",
+                    "hrv_rmssd": 64.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:37:36.000000+08:00",
+                    "hrv_rmssd": 61.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:42:36.000000+08:00",
+                    "hrv_rmssd": 51.0
+                },
+                {
+                    "timestamp": "2025-01-12T07:47:36.000000+08:00",
+                    "hrv_rmssd": 51.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:02:36.000000+08:00",
+                    "hrv_rmssd": 96.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:07:36.000000+08:00",
+                    "hrv_rmssd": 74.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:12:36.000000+08:00",
+                    "hrv_rmssd": 75.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:17:36.000000+08:00",
+                    "hrv_rmssd": 71.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:22:36.000000+08:00",
+                    "hrv_rmssd": 66.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:27:36.000000+08:00",
+                    "hrv_rmssd": 70.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:37:36.000000+08:00",
+                    "hrv_rmssd": 76.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:42:36.000000+08:00",
+                    "hrv_rmssd": 92.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:47:36.000000+08:00",
+                    "hrv_rmssd": 68.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:52:36.000000+08:00",
+                    "hrv_rmssd": 59.0
+                },
+                {
+                    "timestamp": "2025-01-12T08:57:36.000000+08:00",
+                    "hrv_rmssd": 68.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:02:36.000000+08:00",
+                    "hrv_rmssd": 73.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:07:36.000000+08:00",
+                    "hrv_rmssd": 28.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:12:36.000000+08:00",
+                    "hrv_rmssd": 40.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:17:36.000000+08:00",
+                    "hrv_rmssd": 24.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:32:36.000000+08:00",
+                    "hrv_rmssd": 112.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:37:36.000000+08:00",
+                    "hrv_rmssd": 84.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:42:36.000000+08:00",
+                    "hrv_rmssd": 79.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:47:36.000000+08:00",
+                    "hrv_rmssd": 93.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:52:36.000000+08:00",
+                    "hrv_rmssd": 89.0
+                },
+                {
+                    "timestamp": "2025-01-12T09:57:36.000000+08:00",
+                    "hrv_rmssd": 88.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:07:36.000000+08:00",
+                    "hrv_rmssd": 103.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:17:36.000000+08:00",
+                    "hrv_rmssd": 83.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:22:36.000000+08:00",
+                    "hrv_rmssd": 82.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:37:36.000000+08:00",
+                    "hrv_rmssd": 55.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:42:36.000000+08:00",
+                    "hrv_rmssd": 31.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:47:36.000000+08:00",
+                    "hrv_rmssd": 78.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:52:36.000000+08:00",
+                    "hrv_rmssd": 91.0
+                },
+                {
+                    "timestamp": "2025-01-12T10:57:36.000000+08:00",
+                    "hrv_rmssd": 77.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:02:36.000000+08:00",
+                    "hrv_rmssd": 59.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:17:36.000000+08:00",
+                    "hrv_rmssd": 59.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:27:36.000000+08:00",
+                    "hrv_rmssd": 91.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:37:36.000000+08:00",
+                    "hrv_rmssd": 82.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:42:36.000000+08:00",
+                    "hrv_rmssd": 77.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:47:36.000000+08:00",
+                    "hrv_rmssd": 72.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:52:36.000000+08:00",
+                    "hrv_rmssd": 80.0
+                },
+                {
+                    "timestamp": "2025-01-12T11:57:36.000000+08:00",
+                    "hrv_rmssd": 81.0
+                },
+                {
+                    "timestamp": "2025-01-12T12:02:36.000000+08:00",
+                    "hrv_rmssd": 97.0
+                },
+                {
+                    "timestamp": "2025-01-12T12:07:36.000000+08:00",
+                    "hrv_rmssd": 71.0
+                },
+                {
+                    "timestamp": "2025-01-12T12:12:36.000000+08:00",
+                    "hrv_rmssd": 70.0
+                },
+                {
+                    "timestamp": "2025-01-12T12:17:36.000000+08:00",
+                    "hrv_rmssd": 91.0
+                },
+                {
+                    "timestamp": "2025-01-12T12:22:36.000000+08:00",
+                    "hrv_rmssd": 76.0
+                }
+            ],
+            "hrv_samples_sdnn": []
+        }
+    },
+    "sleep_durations_data": {
+        "other": {
+            "duration_in_bed_seconds": 31440,
+            "duration_unmeasurable_sleep_seconds": null
+        },
+        "asleep": {
+            "duration_light_sleep_state_seconds": 11220,
+            "duration_deep_sleep_state_seconds": 10710,
+            "num_REM_events": 4,
+            "duration_asleep_state_seconds": 25320,
+            "duration_REM_sleep_state_seconds": 3390
+        },
+        "hypnogram_samples": [
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T03:47:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T03:52:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T03:57:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:02:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:07:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:12:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:17:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:22:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:27:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:32:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:37:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:42:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:47:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T04:52:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T04:57:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T05:02:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:07:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:12:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:17:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:22:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:27:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:32:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:37:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:42:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T05:47:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T05:52:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T05:57:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T06:02:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T06:07:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T06:12:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T06:17:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T06:22:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T06:27:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T06:32:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T06:37:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T06:42:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T06:47:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T06:52:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T06:57:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:02:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:07:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:12:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:17:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:22:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:27:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:32:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:37:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T07:42:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:47:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T07:52:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T07:57:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T08:02:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T08:07:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T08:12:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T08:17:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T08:22:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T08:27:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T08:32:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T08:37:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T08:42:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T08:47:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T08:52:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T08:57:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T09:02:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T09:07:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T09:12:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:17:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T09:22:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:27:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:32:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:37:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:42:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:47:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:52:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T09:57:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T10:02:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T10:07:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T10:12:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T10:17:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T10:22:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T10:27:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T10:32:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T10:37:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T10:42:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T10:47:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T10:52:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T10:57:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T11:02:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T11:07:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T11:12:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T11:17:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T11:22:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T11:27:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T11:32:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T11:37:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T11:42:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T11:47:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T11:52:36.000000+08:00"
+            },
+            {
+                "level": 5,
+                "timestamp": "2025-01-12T11:57:36.000000+08:00"
+            },
+            {
+                "level": 4,
+                "timestamp": "2025-01-12T12:02:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T12:07:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T12:12:36.000000+08:00"
+            },
+            {
+                "level": 6,
+                "timestamp": "2025-01-12T12:17:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T12:22:36.000000+08:00"
+            },
+            {
+                "level": 1,
+                "timestamp": "2025-01-12T12:27:36.000000+08:00"
+            }
+        ],
+        "awake": {
+            "num_out_of_bed_events": null,
+            "duration_short_interruption_seconds": null,
+            "num_wakeup_events": 15,
+            "duration_awake_state_seconds": 6120,
+            "duration_long_interruption_seconds": null,
+            "sleep_latency_seconds": 300,
+            "wake_up_latency_seconds": 600
+        },
+        "sleep_efficiency": 0.81
+    },
+    "device_data": {
+        "last_upload_date": null,
+        "name": null,
+        "other_devices": [],
+        "software_version": null,
+        "serial_number": null,
+        "hardware_version": null,
+        "activation_timestamp": null,
+        "manufacturer": null,
+        "data_provided": []
+    },
+    "data_enrichment": {
+        "sleep_contributors": null,
+        "sleep_score": null
+    },
+    "metadata": {
+        "upload_type": 0,
+        "is_nap": false,
+        "summary_id": "bf87af51-748b-47be-a82a-5041d5449537",
+        "timestamp_localization": 1,
+        "end_time": "2025-01-12T12:31:36.000000+08:00",
+        "start_time": "2025-01-12T03:47:36.000000+08:00"
+    },
+    "readiness_data": {
+        "recovery_level": 0,
+        "readiness": null
+    },
+    "temperature_data": {
+        "delta": -0.74
+    },
+    "respiration_data": {
+        "breaths_data": {
+            "max_breaths_per_min": null,
+            "min_breaths_per_min": null,
+            "samples": [],
+            "avg_breaths_per_min": 14.75,
+            "end_time": null,
+            "on_demand_reading": null,
+            "start_time": null
+        },
+        "oxygen_saturation_data": {
+            "samples": [],
+            "avg_saturation_percentage": null,
+            "end_time": null,
+            "start_time": null
+        },
+        "snoring_data": {
+            "total_snoring_duration_seconds": null,
+            "num_snoring_events": null,
+            "samples": [],
+            "end_time": null,
+            "start_time": null
+        }
+    },
+    "scores": {
+        "sleep": null
+    },
+    "user": {
+        "provider": "OURA",
+        "user_id": "5119cc5e-d6d5-4d52-ae92-6d51e7c8a8b9",
+        "last_webhook_update": null,
+        "scopes": "heartrate,tag,session,workout,personal,daily,email,spo2",
+        "created_at": null,
+        "reference_id": "did:privy:cm5uyp7f207zb2uwap0wo9wqr",
+        "active": true
+    }
+}
