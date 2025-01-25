@@ -2,6 +2,7 @@ import { createClient } from '@supabase/supabase-js';
 import { startOfYear } from 'date-fns';
 import { SleepSchema, Sleep } from './types';
 
+
 const supabase = createClient(
   process.env.SUPABASE_URL!,
   process.env.SUPABASE_ANON_KEY!
