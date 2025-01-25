@@ -42,7 +42,7 @@ const proof = await validate(sleepData);
 // }
 ```
 
-### Validation Criteria
+## Validation Criteria
 
 The validator checks three main aspects:
 
