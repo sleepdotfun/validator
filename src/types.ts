@@ -4,6 +4,15 @@ import { z } from "zod";
 const Option = <T extends z.ZodTypeAny>(schema: T) => z.union([schema, z.null(), z.undefined()]);
 
 export const SleepSchema = z.object({
+  user: z.object({
+    provider: z.string(),
+    user_id: z.string(),
+    last_webhook_update: Option(z.string()),
+    scopes: z.string(),
+    created_at: Option(z.string()),
+    reference_id: z.string(),
+    active: z.boolean(),
+  }),
   sleep_durations_data: z.object({
     other: z.object({
       duration_in_bed_seconds: Option(z.number()),
@@ -120,3 +129,15 @@ export const SleepSchema = z.object({
 });
 
 export type Sleep = z.infer<typeof SleepSchema>
+
+export const ProofSchema = z.object({
+  score: z.number(),
+  dlpId: z.number(),
+  metadata: z.object({
+    valid: z.boolean(),
+    quality: z.number(),
+    uniqueness: z.number(),
+  }),
+});
+
+export type Proof = z.infer<typeof ProofSchema>;
