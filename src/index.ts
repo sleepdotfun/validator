@@ -75,8 +75,7 @@ function checkQuality(sleep: Sleep): number {
     nonNullFields += durations.sleep_efficiency != null ? 1 : 0;
 
     // Calculate quality score as percentage of non-null fields
-    quality = nonNullFields / totalFields;
-    return 0;
+    return nonNullFields / totalFields;
 }
 
 // Check if the user has not updated their data in the last 24 hours
